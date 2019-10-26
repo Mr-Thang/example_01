@@ -5,6 +5,7 @@
     "require": {
         "php": "^7.2"
     },
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +13,6 @@
             "email": "thanghuuna@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
             "hht\\example\\": "src"
