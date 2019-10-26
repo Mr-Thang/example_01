@@ -1,0 +1,21 @@
+{
+    "name": "hht/example",
+    "description": "this first",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ho Thang",
+            "email": "thanghuuna@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+	"autoload": {
+        "psr-4": {
+            "ivantree\\vticker\\": "src"
+        }
+    }
+}
