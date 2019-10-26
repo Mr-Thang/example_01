@@ -12,10 +12,10 @@
             "email": "thanghuuna@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
-            "ivantree\\vticker\\": "src"
+            "hht\\example\\": "src"
         }
     }
 }
